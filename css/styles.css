@@ -24,3 +24,7 @@ body {
   margin: 0.7rem;
   cursor: move;
 }
+
+.draggable-item.dragging {
+  opacity: 0.5;
+}
